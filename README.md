@@ -8,7 +8,6 @@ Go to your blueprint's root dir:
 
 ```
 $ cd ~/projects/awesome-twitter-clone
-
 ```
 
 Start aglio docker:
